@@ -1,19 +1,6 @@
 # Rails Project Mode - Pet Sits R Us app created by Andy Purbrick and Serena Nakatani-Brown
 
-Congratulations, we are starting project mode! This means that you'll spend the rest of the week working in a team to build out a Rails project of your choice. There will be some lectures and new material scheduled throughout the week, but the bulk of the time will be working on your projects.
-
-
-Some example project ideas from previous classes:
-
-1. [Regifter](http://regifter.herokuapp.com/) - A gift trading app that lets users upload images and descriptions of unwanted gifts and propose trades with other users.
-1. [Flatiron Postcard](http://flatironpostcard.herokuapp.com/) - An app that lets you create and send custom postcards to friends and family
-1. Petster - A social media site for pets
-1. [ROBYStuff - Rent or Buy Your Stuff](https://stark-falls-90133.herokuapp.com/listings)
-1. [Planning Ahead - Plan Your Funeral](https://ancient-mesa-18771.herokuapp.com/users/summary)
-1. [JOBuddy - Assistance with Job Applications](https://sheltered-woodland-79144.herokuapp.com/)
-
-
-## Requirements:
+## Project Requirements:
 
 1. You should have least four models. You do not have to have all of these built out on day one. But by the end of the week, you should have at least four models.
 
